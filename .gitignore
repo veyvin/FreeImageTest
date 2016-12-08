@@ -240,3 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Temp
+/FreeImageTest.sln
+/FreeImageTest.Plugins.csproj
+/FreeImageTest.csproj
+/Library
